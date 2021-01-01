@@ -31,7 +31,10 @@ body{
 }
 
 .currenttime{
-    display:flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 
 }
 .currenttime div{
